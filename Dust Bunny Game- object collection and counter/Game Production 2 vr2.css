@@ -1,0 +1,16 @@
+*
+{
+ font-family: "Courier New", Courier, monospace;
+}
+div
+{
+ width: 512px;
+ height: 512px;
+ margin: auto;
+
+ position: relative;
+}
+.sprite
+{
+ position: absolute;
+}
