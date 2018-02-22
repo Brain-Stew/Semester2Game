@@ -1,1 +1,20 @@
 
+<!doctype html>
+<html>
+	<head>
+		<title>Dust.Bun</title>
+		<link rel="stylesheet" type="text/css" href="Dustbunn.css">
+	</head>
+	<body>
+		
+		<button onclick="location.reload()" type="button">Replay</button>
+		
+		<div>
+		<canvas></canvas>
+			<img class="sprite" id="bunn" src="../img/bunn.png">
+			 <img class="sprite" id="pickup" src="https://goo.gl/8LRc6J" width = 44px height = 44px>
+		</div>
+		<input type = "text" id = "txt">
+		<script src="Dustbunn.js"></script>
+	</body>
+</html>
