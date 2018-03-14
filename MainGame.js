@@ -1,5 +1,3 @@
-
-
 /**
  * Initialize the Game and start it.
  */
